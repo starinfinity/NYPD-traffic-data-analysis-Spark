@@ -16,5 +16,5 @@ COMMAND USED:PYTHONSTARTUP=cleaner_spark.py pyspark
 
 
 to view clean data 
-COMMAND: hadoop fs -cat /user/6+2/cleaninputfile.csv
+COMMAND: hadoop fs -cat /path/to/cleaned/file/cleaninputfile.csv
 
