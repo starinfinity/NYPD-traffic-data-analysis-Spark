@@ -1,0 +1,22 @@
+Date on which maximum number of accidents took place : 11/26/2013 total is 197
+
+
+Borough with maximum count of accident fatality : BROOKLYN total is 332
+
+
+Zip with maximum count of accident fatality : 11236 total is 27
+
+
+Which vehicle type is involved in maximum accidents : PASSENGER VEHICLE total is 126634
+
+
+Year in which maximum Number Of Persons and Pedestrians Injured : 2013 total is 10761
+
+
+Year in which maximum Number Of Persons and Pedestrians Killed : 2013 total is 132
+
+
+Year in which maximum Number Of Cyclist Injured and Killed (combined) : 2015 total is 3876
+
+
+Year in which maximum Number Of Motorist Injured and Killed (combined) : 2013 total is 27622
