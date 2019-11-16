@@ -1,6 +1,8 @@
 # Data-Analysis-Spark
-NYPD traffic Data analyses using Spark 
+Motor Vehicle Collision Data analyses using Spark 
 
+Data:
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 Files:
 cleaner_spark.py- spark file to clean the data and process it using spark
